@@ -56,16 +56,38 @@ And we use a multiple t-test with Benjamini-Hochberg correction to evaluate whet
 ## Baselines Methods
 
 ### Coupling Methods
-- CSEA 14
-- DSCPCD 26
+- CSEA
+
+  [A novel network core structure extraction algorithm utilized variational autoencoder for community detection](https://www.sciencedirect.com/science/article/pii/S0957417423002762), Rong Fei, Yuxin Wan, Bo Hu, Aimin Li, Qian Li, **[Source Code](https://github.com/PeterWana/CSEA)**.
+
+- DSCPCD
+
+  [Dual Structural Consistency Preserving Community Detection on Social Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10017356),  Yuyao Wang, Jie Cao, Zhan Bu, Jia Wu, and Youquan Wang, **[Source Code](https://github.com/wyy-cs/DSCPCD)**.
 
 ### Two-stage Methods
-- SepNE 24
-- Deepwalk 32
-- node2vec 33
-- LINE 33
-- RNNGCN 35
-- ROLAND 36 
+- SepNE
+
+  [Sepne: Bringing separability to network embedding](https://arxiv.org/pdf/1811.05614.pdf), Ziyao Li, Liang Zhang, Guojie Song. (Contact to authors for codes).
+  
+- Deepwalk
+
+  [DeepWalk: Online Learning of Social Representations](https://arxiv.org/pdf/1403.6652.pdf), Bryan Perozzi, Rami Al-Rfou, Steven Skiena. [Source Code](https://github.com/phanein/deepwalk).
+
+- node2vec
+
+  [node2vec: Scalable Feature Learning for Networks](https://arxiv.org/pdf/1607.00653.pdf), Aditya Grover, Jure Leskovec, **[Source Code](https://github.com/aditya-grover/node2vec)**.
+
+- LINE
+
+  [LINE: Large-scale Information Network Embedding](https://arxiv.org/pdf/1503.03578.pdf), Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan, Qiaozhu Mei, **[Source Code](https://github.com/tangjianpku/LINE)**.
+  
+- RNNGCN 
+
+  [Interpretable Clustering on Dynamic Graphs with Recurrent Graph Neural Networks](https://arxiv.org/pdf/2012.08740.pdf), Yuhang Yao, Carlee Joe-Wong, **[Source Code](https://github.com/yh-yao/InterpretableClustering)**.
+
+- ROLAND
+
+  [ROLAND: Graph Learning Framework for Dynamic Graphs](https://arxiv.org/pdf/2208.07239.pdf), Jiaxuan You, Tianyu Du, Jure Leskovec, **[Source Code](https://github.com/snap-stanford/roland)**.
 
 ### Evolutionary Methods
 - PisCES 18
