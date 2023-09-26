@@ -90,10 +90,23 @@ And we use a multiple t-test with Benjamini-Hochberg correction to evaluate whet
   [ROLAND: Graph Learning Framework for Dynamic Graphs](https://arxiv.org/pdf/2208.07239.pdf), Jiaxuan You, Tianyu Du, Jure Leskovec, **[Source Code](https://github.com/snap-stanford/roland)**.
 
 ### Evolutionary Methods
-- PisCES 18
-- DYNMOGA 53
-- NE2NMF 22
-- RTSC 40
+- PisCES
+
+  [Global spectral clustering in dynamic networks](https://www.pnas.org/doi/epdf/10.1073/pnas.1718449115), Fuchen Liua, David Choib, Lu Xiea, and Kathryn Roeder, **[Source Code](https://github.com/letitiaLiu/PisCES)**
+
+- DYNMOGA
+
+  [An Evolutionary Multiobjective Approach for Community Discovery in Dynamic Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6573961&tag=1), Francesco Folino and Clara Pizzuti, (Use ours or contact author for code).
+
+- NE2NMF
+
+  [Detecting dynamic community by fusing network embedding and nonnegative matrix factorization](https://www.sciencedirect.com/science/article/pii/S0950705121002240),  Dongyuan Li, Xiaoxiong Zhong, Zengfa Dou, Maoguo Gong, Xiaoke Ma. (Use ours or contact authors for code).
+  
+- RTSC
+
+  [Robust Dynamic Clustering for Temporal Networks](https://dl.acm.org/doi/pdf/10.1145/3459637.3482473), Jingyi You, Chenlong Hu, Hidetaka Kamigaito, Kotaro Funakoshi, Manabu Okumura, (Contact authors for code).
+
+
   
 
 ## Ours 
