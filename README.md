@@ -1,5 +1,5 @@
 # SMFBC
-The source code demo for one under-review paper in IEEE TKDE.  
+The source code demo for one under-review paper.  
 
 
 
