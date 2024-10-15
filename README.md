@@ -1,4 +1,4 @@
-# RS-MF
+# DyG-MF
 The source code demo for one under-review paper.  
 
 
