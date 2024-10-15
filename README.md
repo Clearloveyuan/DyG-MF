@@ -10,7 +10,7 @@ We use normalized mutual information (NMI) and normalized F1-score (NF1) to meas
 For baselines, we follow their reported settings to reproduce their model. 
 And all experimental results are the average of ten runs by random seeds and are conducted on Matlab-2023 with Powergraph, a parallel computation framework, on eight machines. 
 Each machine consists of 4 Intel i7-4790 3.60-GHz cores, and 16-GB RAM connects via 1-GB Ethernet. 
-And we use a multiple t-test with Benjamini-Hochberg correction to evaluate whether the difference between baselines and SMFBC is significant.
+And we use a multiple t-test with Benjamini-Hochberg correction to evaluate whether the difference between baselines and DyG-MF is significant.
 ```
 
 ## Datasets
