@@ -111,11 +111,11 @@ And we use a multiple t-test with Benjamini-Hochberg correction to evaluate whet
 
 ## Ours 
 
-Separated graph clustering for the first timestep:
+DyG-MF for the first timestep:
 
 Run `Algorithm/esP.m`
 
-From the second timestep, our separated graph clustering method:
+From the second timestep, our DyG-MF method:
 
 Run `Algorithm/dyesP.m`
 
